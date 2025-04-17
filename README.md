@@ -1,4 +1,4 @@
-vscode-icons-icons.el
+vscode-icons-dired.el
 ==================
 
 Pretty VSCode icons for `dired-mode`.

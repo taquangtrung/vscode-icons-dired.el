@@ -6,7 +6,7 @@
 ;; Keywords: lisp
 ;; Package-Version:
 ;; Package-Revision:
-;; Package-Requires: ((vscode-icons "0.0.1"))
+;; Package-Requires: ((emacs "24.3"))
 ;; URL: https://github.com/taquangtrung/vscode-icons-dired
 ;; Keywords: files, icons, dired
 
